@@ -11,7 +11,7 @@ Here you can find the following guided codes developed while studying for certif
 - Solving the Tower of Hanoi Puzzle
 - Merge Sort Algorithm
 - Sudoku Solver
-Binary Search Tree
+- Binary Search Tree
 
 ## Projects
 Here you can find the 5 codes developed to obtain the certification:
